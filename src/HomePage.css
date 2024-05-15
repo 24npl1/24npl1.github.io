@@ -1,0 +1,28 @@
+/* HomePage.css */
+/* Add your CSS styles here */
+/* For example: */
+
+/* Example of changing the background color of the main container */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center content horizontally */
+    padding-top: 64px; /* Adjust this value as needed to give space for the AppBar */
+  }
+  
+  /* Example of changing the background color of the main section */
+  .main-section {
+    background-color: white;
+    width: 100%; /* Full width for the main section */
+    max-width: 1200px; /* Optional: Limit the maximum width of the main section */
+    padding: 16px;
+  }
+  
+  /* Example of styling the sidebar */
+  .sidebar {
+    background-color: #DDBB99;
+    width: 100%; /* Full width for the sidebar */
+    max-width: 300px; /* Optional: Limit the maximum width of the sidebar */
+    padding: 16px;
+  }
+  
